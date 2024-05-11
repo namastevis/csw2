@@ -1,0 +1,5 @@
+Question 1: Write a program to print "Good morning" and "Welcome" continuously on the screen in Java using threads.
+Question 2: Add a step method in the welcome thread of question 1 to delay its execution for 200ms.
+Question 3: Demonstrate gerPriority() and setPriority() methods in Java threads.
+Question 4: How do you get the state of a given thread in Java?
+Question 5: How do you get the reference to the current thread in Java?
